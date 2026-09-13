@@ -66,7 +66,7 @@ puts("Hello, World!");
 
 ## 4. Escape Sequences
 
-| Escape Sequence | Meaning |
+| Escape Sequence | Meaning | Example |
 | `\n` | Newline — moves the cursor to the next line | `printf("Hello\nWorld");` |
 | `\t` | Horizontal tab — inserts a tab space | `printf("Name:\tAli");` |
 | `\\` | Backslash — prints a literal backslash character | `printf("C:\\Users");` |
