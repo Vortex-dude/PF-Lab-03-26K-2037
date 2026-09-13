@@ -3,6 +3,7 @@
 ## 1. Data Types
 
 | Data Type | Description |
+|-----------|-------------|
 | `int` | Used to store whole numbers (positive, negative, or zero) without any decimal point. Typically occupies 4 bytes. |
 | `float` | Used to store single-precision floating-point (decimal) numbers. Typically occupies 4 bytes and offers about 6-7 decimal digits of precision. |
 | `double` | Used to store double-precision floating-point numbers. Typically occupies 8 bytes and offers greater precision (about 15-16 digits) than `float`. |
@@ -13,6 +14,7 @@
 ## 2. Format Specifiers
 
 | Specifier | Description |
+|-----------|-------------|
 | `%d` | Prints a signed decimal integer. |
 | `%u` | Prints an unsigned decimal integer. |
 | `%o` | Prints an integer in octal (base 8) format. |
@@ -67,6 +69,7 @@ puts("Hello, World!");
 ## 4. Escape Sequences
 
 | Escape Sequence | Meaning | Example |
+|------------------|---------|---------|
 | `\n` | Newline — moves the cursor to the next line | `printf("Hello\nWorld");` |
 | `\t` | Horizontal tab — inserts a tab space | `printf("Name:\tAli");` |
 | `\\` | Backslash — prints a literal backslash character | `printf("C:\\Users");` |
