@@ -1,7 +1,7 @@
 # PF-Lab-03-26K-2037
-## Choudhry Zoraiz Qadir
-## 26K-2037
-# PF Lab 03 -- Introduction to GitHub and C Programming Language
+Choudhry Zoraiz Qadir
+26K-2037
+PF Lab 03 -- Introduction to GitHub and C Programming Language
 
 ## Objectives are :
 1. Introduce students to Github and setting up their profile with their first repository.
