@@ -45,9 +45,9 @@ START
     OUTPUT "Enter a floating-point number: "
     INPUT value
 
-    DISPLAY "Default precision: " + value
-    DISPLAY "1 decimal place: " + FORMAT(value, 1)
-    DISPLAY "2 decimal places: " + FORMAT(value, 2)
-    DISPLAY "4 decimal places: " + FORMAT(value, 4)
+    OUTPUT "Default precision: " + value
+    OUTPUT "1 decimal place: " + FORMAT(value, 1)
+    OUTPUT "2 decimal places: " + FORMAT(value, 2)
+    OUTPUT "4 decimal places: " + FORMAT(value, 4)
 END
 ```
